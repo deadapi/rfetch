@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deadapirfetch" 
+    "url": "https://github.com/deadapi/rfetch" 
   },
   "bugs": {
     "url": "https://github.com/deadapi/rfetch/issues" 
