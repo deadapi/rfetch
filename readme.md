@@ -1,20 +1,20 @@
-# Rfetch
+# zrnf
 
-**Rfetch** is a JavaScript package for generating random strings, numbers, or symbols.
+**zrnf** is a JavaScript package for generating random strings, numbers, or symbols.
 
 ## Installation
 
-To install **rfetch**, use npm:
+To install **zrnf**, use npm:
 
 ```bash
-npm install rfetch
+npm install zrnf
 ```
 
 ## Usage
 
 ```js
-const rfetch = require('rfetch');
+const zrnf = require('zrnf');
 
-let result = rfetch.random("exampleString", 5);
+let result = zrnf.random("exampleString", 5);
 console.log(result); // Outputs a random 5-character string from "exampleString"
 ```

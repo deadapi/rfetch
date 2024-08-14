@@ -1,7 +1,7 @@
 {
-  "name": "rfetch",
+  "name": "zrnf",
   "version": "1.0.0",
-  "description": "Introducing `rfetch`—a simple and handy tool for generating random strings, numbers, or symbols in JavaScript. Perfect for creating unique values, testing, or just adding a touch of randomness to your projects. Easy to use and integrates smoothly into any JavaScript environment.",
+  "description": "Introducing `zrnf`—a simple and handy tool for generating random strings, numbers, or symbols in JavaScript. Perfect for creating unique values, testing, or just adding a touch of randomness to your projects. Easy to use and integrates smoothly into any JavaScript environment.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"

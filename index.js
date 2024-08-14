@@ -1,4 +1,4 @@
-const rfetch = {
+const zrnf = {
     random(input, length) {
         const strInput = input ? input.toString() : null;
 
@@ -34,4 +34,4 @@ const rfetch = {
     }
 };
 
-module.exports = rfetch;
+module.exports = zrnf;
