@@ -1,7 +1,7 @@
 {
   "name": "zrnf",
   "version": "1.0.0",
-  "description": "Introducing `zrnf`—a simple and handy tool for generating random strings, numbers, or symbols in JavaScript. Perfect for creating unique values, testing, or just adding a touch of randomness to your projects. Easy to use and integrates smoothly into any JavaScript environment.",
+  "description": "zrnf is your go-to for quick random strings, numbers, or symbols in JavaScript. Just give it an input and length, and it’ll handle the rest!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
