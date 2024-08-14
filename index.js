@@ -34,6 +34,4 @@ const rfetch = {
     }
 };
 
-console.log(rfetch.random("efnejnfeofef", 100));
-
 module.exports = rfetch;
