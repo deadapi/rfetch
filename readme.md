@@ -11,6 +11,7 @@ npm install rfetch
 ```
 
 ## Usage
+
 ```js
 const rfetch = require('rfetch');
 
